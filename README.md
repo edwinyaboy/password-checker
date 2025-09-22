@@ -1,8 +1,8 @@
 # 🔍 Password Leak Checker
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github-pages)](https://edwinyaboy.github.io/password-leak-checker/) 
-[![Open Source](https://img.shields.io/badge/Open%20Source-MIT-green?style=for-the-badge)](https://github.com/edwinyaboy/password-leak-checker) 
-[![Secure](https://img.shields.io/badge/Secure-Client%20Side-blue?style=for-the-badge)](https://edwinyaboy.github.io/password-leak-checker/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=github-pages)](https://edwinyaboy.github.io/password-checker/) 
+[![Open Source](https://img.shields.io/badge/Open%20Source-MIT-green?style=for-the-badge)](https://edwinyaboy.github.io/password-checker/) 
+[![Secure](https://img.shields.io/badge/Secure-Client%20Side-blue?style=for-the-badge)](https://edwinyaboy.github.io/password-checker/) 
 [![HIBP Check](https://img.shields.io/badge/HIBP-Breach%20Check-orange?style=for-the-badge)](https://haveibeenpwned.com/)
 
 **Open Source | Secure | Client-Side | HIBP Breach Check**
